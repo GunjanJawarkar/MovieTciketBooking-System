@@ -1,4 +1,4 @@
-# MovieTciketBooking-System
+# MovieTicketBooking-System
 
 Required Module
 
